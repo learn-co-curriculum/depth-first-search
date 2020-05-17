@@ -1,4 +1,6 @@
 ---
-:page_id: 3425
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/depth-first-search
+:lessons:
+- :id: 3904
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/depth-first-search
+  :type: page
